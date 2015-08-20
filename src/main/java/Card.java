@@ -1,4 +1,4 @@
-class Card {
+public class Card {
   String mValue;
   String mSuit;
 
